@@ -14,11 +14,11 @@ use core::cmp::Ordering;
 static mut KAVITA_API_AUTH: String = String::new();
 
 fn get_kavita_api_url() -> String {
-	defaults_get("kavitaAddress").unwrap().as_string().unwrap().to_string().trim_end_matches('/').to_string() + "/api"
+	defaults_get("kavita2Address").unwrap().as_string().unwrap().to_string().trim_end_matches('/').to_string() + "/api"
 }
 
 fn get_kavita_api_key() -> String {
-	defaults_get("kavitaAPIKey").unwrap().as_string().unwrap().to_string()
+	defaults_get("kavita2APIKey").unwrap().as_string().unwrap().to_string()
 }
 
 fn clear_kavita_api_auth() {
