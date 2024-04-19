@@ -5,13 +5,13 @@
 		"items": [
 			{
 				"type": "text",
-				"key": "kavitaAddress",
+				"key": "kavita2Address",
 				"default": "https://demo.kavitareader.com",
 				"placeholder": "Kavita Server URL"
 			},
 			{
 				"type": "text",
-				"key": "kavitaAPIKey",
+				"key": "kavita2APIKey",
 				"default": "",
 				"placeholder": "Kavita Server API Key"
 			}
