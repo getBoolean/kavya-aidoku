@@ -3,7 +3,7 @@ Kavya, A [Kavita](https://www.kavitareader.com/) client extension, for [Aidoku](
 
 ## Add Source
 
-[Add this source](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/ACK72/kavya-aidoku/gh-pages/) to the Aidoku app
+[Add this source](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/getBoolean/kavya-aidoku/gh-pages/) to the Aidoku app
 
 ## Limitations
 
